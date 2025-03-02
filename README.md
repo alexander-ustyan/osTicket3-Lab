@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This project showcases the lifecycle of a ticket within osTicket, an open-source help desk ticketing system, from intake to resolution. It highlights my understanding of help desk operations, workflow automation, and customer service management in a structured support environment. Through this project, I demonstrate my skills in problem resolution, system configuration, and ticket management, essential for IT support and business operations.<br />
+This tutorial provides a step-by-step guide on the lifecycle of a ticket within osTicket, an open-source help desk ticketing system. It covers the entire process—from ticket intake to resolution—demonstrating help desk operations, workflow automation, and customer service management in a structured support environment.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -30,7 +30,22 @@ This project showcases the lifecycle of a ticket within osTicket, an open-source
 <img src="https://i.imgur.com/UfwMeH7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Simulated the customer-facing ticket creation process in osTicket, where an end-user submits a ticket that is routed to the help desk. This process ensures that customer issues are properly logged, categorized, and assigned for resolution.
+In osTicket, customers submit tickets through the web portal, ensuring their issues are logged and assigned for resolution.
+
+How to Submit a Ticket:
+<br>
+1. Go to the osTicket Portal and click "Open a New Ticket."
+<br>
+2. Enter Details:
+<br>
+Name & Email for communication.
+Help Topic to categorize the request.
+Issue Details (subject & description).
+<br>
+3. Submit the Ticket – The system generates a unique ticket ID for tracking.
+<br>
+4. Receive Confirmation – The user gets an email notification with ticket details.
+Next, the ticket moves to assignment and processing.
 </p>
 <br />
 
