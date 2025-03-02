@@ -47,7 +47,11 @@ Next, the ticket moves to assignment and processing.
 <img src="https://i.imgur.com/cmNOp92.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I also created and managed a high-priority ticket for a mobile/online banking system outage, setting its properties, including SLA and department assignment, while testing access permissions for different roles.
+To simulate urgent issue handling, create a high-priority ticket for a mobile/online banking outage and configure its properties: <br>
+1. Open a New Ticket – Submit a ticket for the banking system outage via the Admin Panel or Customer Portal. <br>
+2. Set Priority & SLA – Assign a high-priority level with an SLA ensuring a 1-hour response time. <br>
+3. Assign to Department – Route the ticket to the SysAdmins or IT Support team. <br>
+4. Test Role-Based Access – Verify that only authorized agents (e.g., SysAdmins, IT Support) can access or update the ticket. This process ensures critical issues are prioritized and handled by the appropriate team efficiently.
 </p>
 <br />
 
