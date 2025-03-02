@@ -44,7 +44,7 @@ Next, the ticket moves to assignment and processing.
 <br />
 
 <p>
-<img src="https://i.imgur.com/cmNOp92.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/A5WCKPQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
