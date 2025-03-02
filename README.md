@@ -47,7 +47,8 @@ Next, the ticket moves to assignment and processing.
 <img src="https://i.imgur.com/cmNOp92.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To simulate urgent issue handling, create a high-priority ticket for a mobile/online banking outage and configure its properties: <br>
+To simulate urgent issue handling, create a high-priority ticket for a mobile/online banking outage and configure its properties:
+<br>
 1. Open a New Ticket – Submit a ticket for the banking system outage via the Admin Panel or Customer Portal. <br>
 2. Set Priority & SLA – Assign a high-priority level with an SLA ensuring a 1-hour response time. <br>
 3. Assign to Department – Route the ticket to the SysAdmins or IT Support team. <br>
@@ -59,7 +60,13 @@ To simulate urgent issue handling, create a high-priority ticket for a mobile/on
 <img src="https://i.imgur.com/lLoxzHc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Had the customer agent reassign the ticket to themselves in osTicket and post a response in the thread, demonstrating proactive communication and ticket ownership. The agent informed the user that they may have found a solution and would follow up, ensuring transparency and engagement in the resolution process.
+  
+To demonstrate proactive ticket management, the customer agent takes ownership of the ticket and communicates with the user:
+<br>
+1. Reassign the Ticket – The agent navigates to the ticket in osTicket and assigns it to themselves. <br> 
+2. Post a Response – In the ticket thread, the agent updates the user, stating they are investigating the issue. <br>
+3. Ensure Transparency – The agent informs the user that a potential solution has been found and follow-up will be provided. <br>
+4. Maintain Engagement – The system notifies the user via email, keeping them informed throughout the resolution process. This step ensures clear communication, accountability, and user confidence in the support workflow.
 </p>
 <br />
 
@@ -67,6 +74,12 @@ Had the customer agent reassign the ticket to themselves in osTicket and post a 
 <img src="https://i.imgur.com/Ij97tDd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Emulated the process of resolving a ticket in osTicket by having the customer agent post a final comment updating the user and marking the ticket as Resolved. The agent communicated the resolution to the customer, ensuring clarity and transparency in the support process. This project demonstrates my ability to manage ticket lifecycles, provide effective customer communication, and finalize IT support resolutions within a help desk environment.
+  
+To complete the ticket lifecycle, the customer agent finalizes the resolution and communicates with the user:
+<br>
+1. Post a Final Update – The agent adds a comment detailing the solution in the ticket thread. <br>
+2. Mark as Resolved – Change the ticket status to Resolved, signaling that the issue has been addressed. <br>
+3. Notify the User – The system sends an email update, ensuring the customer is informed of the resolution. <br>
+4. Ensure Clarity – Encourage the user to respond if further assistance is needed before officially closing the ticket. This process highlights effective ticket lifecycle management, customer communication, and IT support resolution within a structured help desk system.
 </p>
 <br />
