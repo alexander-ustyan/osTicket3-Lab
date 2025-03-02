@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -84,3 +83,7 @@ To complete the ticket lifecycle, the customer agent finalizes the resolution an
 4. Ensure Clarity – Encourage the user to respond if further assistance is needed before officially closing the ticket. This process highlights effective ticket lifecycle management, customer communication, and IT support resolution within a structured help desk system.
 </p>
 <br />
+
+[Active Directory Project](https://github.com/alexander-ustyan/Active-Directory)
+
+<img src="https://i.imgur.com/UzfhvY5.png" height="80%" width="80%" alt="Done"/>
