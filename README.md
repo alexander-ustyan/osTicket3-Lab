@@ -34,17 +34,14 @@ In osTicket, customers submit tickets through the web portal, ensuring their iss
 
 How to Submit a Ticket:
 <br>
-1. Go to the osTicket Portal and click "Open a New Ticket."
-<br>
+1. Go to the osTicket Portal and click "Open a New Ticket." <br>
 2. Enter Details:
 <br>
-Name & Email for communication.
-Help Topic to categorize the request.
-Issue Details (subject & description).
+**A Name & Email for communication, A Help Topic to categorize the request, An Issue Details (subject & description).**
 <br>
-3. Submit the Ticket – The system generates a unique ticket ID for tracking.
+4. Submit the Ticket – The system generates a unique ticket ID for tracking.
 <br>
-4. Receive Confirmation – The user gets an email notification with ticket details.
+5. Receive Confirmation – The user gets an email notification with ticket details.
 Next, the ticket moves to assignment and processing.
 </p>
 <br />
