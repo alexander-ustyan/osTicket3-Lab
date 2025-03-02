@@ -27,7 +27,7 @@ This tutorial provides a step-by-step guide on the lifecycle of a ticket within 
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/UfwMeH7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0s6Wx3T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In osTicket, customers submit tickets through the web portal, ensuring their issues are logged and assigned for resolution.
