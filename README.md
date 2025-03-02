@@ -47,7 +47,8 @@ Next, the ticket moves to assignment and processing.
 <img src="https://i.imgur.com/cmNOp92.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To simulate urgent issue handling, create a high-priority ticket for a mobile/online banking outage and configure its properties:
+  
+To simulate urgent issue handling, create a high-priority ticket for a mobile/online banking outage and configure its properties: <br>
 <br>
 1. Open a New Ticket – Submit a ticket for the banking system outage via the Admin Panel or Customer Portal. <br>
 2. Set Priority & SLA – Assign a high-priority level with an SLA ensuring a 1-hour response time. <br>
