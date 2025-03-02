@@ -58,7 +58,7 @@ To simulate urgent issue handling, create a high-priority ticket for a mobile/on
 <br />
 
 <p>
-<img src="https://i.imgur.com/lLoxzHc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ekZGJ6C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
@@ -72,7 +72,7 @@ To demonstrate proactive ticket management, the customer agent takes ownership o
 <br />
 
 <p>
-<img src="https://i.imgur.com/Ij97tDd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/moUycl1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
